@@ -15,7 +15,7 @@ não​ ​ puder​ ​ ser​ ​ identificado.
 ● Código​ ​ do​ ​ retorno​ ​ HTTP
 ● Total​ ​ de​ ​ bytes​ ​ retornados
 
-#Questões
+# Questões
 ​
 Responda​ ​ as​ ​ seguintes​ ​ questões​ ​ devem​ ​ ser​ ​ desenvolvidas​ ​ em​ ​ Spark​ ​ utilizando​ ​ a ​ ​ sua​ ​ linguagem​ ​ de​ ​ preferência.
 1. Número​ ​ de​ ​ hosts​ ​ únicos: 137979
