@@ -3,8 +3,11 @@
 Fonte​ ​ oficial​ ​ do​ ​ dateset​ : ​ ​ http://ita.ee.lbl.gov/html/contrib/NASA-HTTP.html
 
 Dados​ :
-● ftp://ita.ee.lbl.gov/traces/NASA_access_log_Jul95.gz
-● ftp://ita.ee.lbl.gov/traces/NASA_access_log_Aug95.gz
+
+●  ftp://ita.ee.lbl.gov/traces/NASA_access_log_Jul95.gz
+
+●  ftp://ita.ee.lbl.gov/traces/NASA_access_log_Aug95.gz
+
 
 Sobre o dataset​ : Esses dois conjuntos de dados possuem todas as requisições HTTP para o servidor da NASA Kennedy
 Space​ ​ Center​ ​ WWW​ ​ na​ ​ Flórida​ ​ para​ ​ um​ ​ período​ ​ específico.
